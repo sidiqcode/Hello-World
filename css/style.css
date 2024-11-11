@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: cyan;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    margin: 10px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
