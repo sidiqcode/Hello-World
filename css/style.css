@@ -4,13 +4,20 @@
 }
 
 body {
-    background-color: cyan;
+    min-height: 100vh;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+}
+
+.container {
+    width: 600px;
 }
 
 h1 {
     margin: 10px;
+    font-size: 36px;
     text-align: center;
 }
 
